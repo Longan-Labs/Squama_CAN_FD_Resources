@@ -1,4 +1,4 @@
-![](https://www.longan-labs.cc/media/wysiwyg/Categories/Categories-31.png)
+![](https://www.longan-labs.cc/media/wysiwyg/Categories/Categories-42.png)
 
 Resources of [Squama CAN FD to Ethernet Board with PoE](https://www.longan-labs.cc/1050003.html)
 
